@@ -1,11 +1,11 @@
 {
-  "name": "starter-kit",
+  "name": "sass-practice",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/starter-kit/",
+    "build": "vite build --base=/sass-practice/",
     "preview": "vite preview"
   },
   "browserslist": [
